@@ -10,7 +10,11 @@
     - There have been plenty of stories that explore the idea of artificial intelligence becoming sentient. This story tries to show what this looks like from the point of view of the artificial intelligence rather than its creators. 
   - [My Skin](Works/Untitled.pdf)
     - Inspired by the cyberpunk setting and the start of a larger work. This story imagines what it would be like if all human bodies were replaced with metal, and only the privileged had access to flesh and the sensations that come with it.
-    
+
+## Poems
+  - [A tolerance to emotion](Works/Poem 1.pdf)
+  - [Re:memories](Works/Poem 2.pdf)
+
 ## Writing Exercises
   - [Armored Truck with no Robbery](Works/Armored Truck.pdf)
     - A short exercise on the subject of an armored truck without the obvious plot point of the truck getting robbed.
@@ -19,6 +23,4 @@
   - [Shopping Cart Apocalypse](Works/Apocalypse.pdf)
     - An exercise in creating a character that picks something you normally wouldn't get from the store in the event of an apocalypse.
     
-## Poems
-  - [A tolerance to emotion](Works/Poem 1.pdf)
-  - [Re:memories](Works/Poem 2.pdf)
+
