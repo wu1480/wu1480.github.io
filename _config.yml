@@ -1,1 +1,9 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Evan Wu's Writings
+author:
+  name: Evan Wu
+  email: wue148070@gmail.com
+description: "A portfolio of my writings"
+
+# Build settings
+remote_theme: jekyll/minimal
