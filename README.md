@@ -1,4 +1,4 @@
-# Evan Wu's Writings
+
 ## Short Stories
   - [Boiling Sands](Works/Boiling Sands.pdf)
   - [Stars and Static](Works/Stars and Static.pdf)
