@@ -1,5 +1,6 @@
 # Site settings
 title: Evan Wu's Writings
 theme: jekyll-theme-midnight
+show_downloads: false
 github:
   is_project_page: false
