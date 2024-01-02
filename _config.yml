@@ -1,5 +1,6 @@
 # Site settings
 title: Evan Wu's Writings
+description: A portfolio of my works
 theme: jekyll-theme-midnight
 show_downloads: false
 github:
